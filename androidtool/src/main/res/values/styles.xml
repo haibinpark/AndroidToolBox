@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="TextStyleBig">
+        <item name="android:textSize">23dip</item>
+    </style>
+
+    <style name="TextStyleSmall">
+        <item name="android:textSize">16dip</item>
+    </style>
+
+</resources>
+
